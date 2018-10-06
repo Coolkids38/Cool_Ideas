@@ -22,12 +22,12 @@
 
 
 ### Pinterest
-- Category: All 
-- Mobile: user creates, "pins", organizes new or existing posts 
-- Story: Allows the user to create boards and build ideas curated from the internet in one place. I
-- Market: People who like to create mood boards and plan events. 
-- Habit: Users can spend hours scrolling through themed boards like humor, desserts, crafts etc. and find more and more ideas.
-- Scope: Pinterest "Pin your interest" has evolved really in just the amount/type of content it has on its site. The more users the more diverse the content is that's being produced.
+- **Category**: All 
+- **Mobile**: user creates, "pins", organizes new or existing posts 
+- **Story**: Allows the user to create boards and build ideas curated from the internet in one place. I
+- **Market**: People who like to create mood boards and plan events. 
+- **Habit**: Users can spend hours scrolling through themed boards like humor, desserts, crafts etc. and find more and more ideas.
+- **Scope**: Pinterest "Pin your interest" has evolved really in just the amount/type of content it has on its site. The more users the more diverse the content is that's being produced.
 
 
 
@@ -64,10 +64,57 @@ Netflix
     - hold up camera to your face and tryout different hairstyles without changing your hair.
     
 12. Weather app
-    - actually accurate!!!
+    - actually accurate!!! 
+    
+14. Nutrition app
+    - type symptoms your feeling and it will suggest recipes for drinks, meals, or foods that will make you feel better.
 
-Top Three Apps:
+15. Study group app
+    - connects students in a general area like a college campus needing a study partner/group for upcoming exams
+
+16. Food truck yelp
+    - Provides reviews on local food trucks
+
+17. Mindfulness
+    - tips on how to become a better you, self care, self help, mental advice, weekly goals to improve yourself.
+
+18. How high are you?
+    - safe place to discuss outlandish ideas. Do you believe in aliens, is God real, why hasn't anyone from the future come back to visit us yet?
+
+19. Life Hacker
+    - 
+
+   
 
 
 
+## Top Four Apps:
+- Creating a gift card app
+    - Category: Lifestyle
+    - Mobile: touch (designing the gift app/card), notifies when the person opened/recieved the app/card, connects to debit/credit card (sending money through app) 
+    - Story: User can design their own app as a present for a friend. They can also send money through the app to the person.
+    - Market: Anyone who has access to a smartphone and a debit card.
+    - Habit: Maybe a few times a month. It depends on how many special occassions the person would want to create an app for.
+    - Scope: This app can range from basic to very intricate. It depends on how detailed you want the user to be able to make their app/gift card. If we go with an app that is somewhere in between the two we can definitely get this done with in the timeframe of the course. 
+
+
+
+
+- Study group app
+    - Category: social
+    - Mobile: notifications (when you receive a message, etc.), location (so you can find nearby students)
+    - Story: convenient way to meet other students on campus and do better in classes
+    - Market: clearly fits college students, maybe high school students as well
+    - Habit: probably not used daily, but would be used regularly (maybe once or twice a week)
+    - Scope: would be very lacking without a lot of users, but a good launch plan (i.e. promoting on college campuses) would help. Not sure how challenging it would be to make this; location services could be difficult but that isn't a totally necessary feature.
+
+
+
+- Life Hacker App
+    - Category: Lifestyle
+    - Mobile: Notifications to remind you of your desired schedule
+    - Story: Convenient way to organize your habits in order to optimize your lifestyle.
+    - Market: Anyone who has access to a smartphone.
+    - Habit: Most likely weekly, as users may want to update their health and lifestyle plans every week depending on how detailed their plan might be.
+    - Scope: Could be challenging based on the amount of information we want to include. A basic form of this app could be one with just a few focuses like nutrition and exercise. As the app gets more developed it could include more features and lifestyle focuses.
 
