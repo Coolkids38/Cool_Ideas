@@ -1,16 +1,10 @@
-- Kai Moore's favorite apps
-  Notes
-  YouTube
-  Robinhood
-
-- Phillip Ho's favorite apps
  ### Snapchat
  - **Category:** Social and Entertainment
- - **Mobile:** App allows user to capture any moments anytime they want using camera and mic. 
- - **Story:** Easy way to capture and share any moments with friends.
- - **Market:** For anyone who just want to post their daily routine. Keep up with your friends daily activities. 
- - **Habit:** User can post multiple stories and snaps at anytime of the day.
- - **Scope** Very formed app. started out just taking pictures and sending to friends or story and now inlcuidng location based. 
+ - **Mobile:** App allows users to capture any moment at anytime they want through their phones. Phones make the app more user friend. 
+ - **Story:** Easier way to capture and share moments with friends without having the lasting of impact of other social media apps.
+ - **Market:** For anyone who just want to post their daily routine. Quick way to keep up with your friends' daily activities. 
+ - **Habit:** User can post multiple stories and snaps at anytime of the day. Can be very addictive with because it is quick. 
+ - **Scope:** Started out like a app to qucikly exchange pictures and messages to a friend. Now has location based and money transfer.
   
 ### YouTube
   - **Category:** Entertainment/video/live streaming
@@ -117,4 +111,3 @@ Netflix
     - Market: Anyone who has access to a smartphone.
     - Habit: Most likely weekly, as users may want to update their health and lifestyle plans every week depending on how detailed their plan might be.
     - Scope: Could be challenging based on the amount of information we want to include. A basic form of this app could be one with just a few focuses like nutrition and exercise. As the app gets more developed it could include more features and lifestyle focuses.
-
