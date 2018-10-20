@@ -12,7 +12,7 @@
 - **Market**: Clearly fits college students, maybe high school students as well.
 - **Habit**: Probably not used daily, but would be used regularly (maybe once or twice a week).
 - **Scope**: Would be very lacking without a lot of users, but a good launch plan (i.e. promoting on college campuses) would help. Not sure how challenging it would be to make this; location services could be difficult but that isn't a totally necessary feature.
-
+---
 
 ### User Stories
 // TODO: Enumerate User Stories
