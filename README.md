@@ -16,8 +16,65 @@
 
 ### User Stories
 // TODO: Enumerate User Stories
-1. User can...
 
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * User can create an account
+ * User can login with username/password
+ * User can view profile and edit details 
+ * User can create study group or new assignment
+ * User can message other users
+ * User can discover other classes and user communities
+
+**Optional Nice-to-have Stories**
+
+ * Discussion forum for certain assignments
+ * Viewing class rosters
+ * Calendar/planner
+
+## 2. Screen Archetypes
+
+ * Registration
+   * User can create an account
+ * Login
+   * User can login with username/password
+ * Profile
+     * User can view profile details and edit info
+ * Creation
+     * User can create study group or new assignment
+ * Messages
+     * User can send/receive messages
+ * Stream
+     * User can discover other classes and user communities
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Stream
+ * Messages
+ * Profile
+ * Creation
+
+**Flow Navigation** (Screen to Screen)
+
+ * Registration
+    * Home
+ * Login
+     * home
+ * Messages
+   * Message details
+   * Response
+   * Home
+ * Profile
+     * None
+         * Future versions will have update details
+         * Change settings
+ * Creation
+     * Creation page
+     * Stream
 ---
 
 ### Wireframes
