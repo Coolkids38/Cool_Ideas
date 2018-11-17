@@ -1,3 +1,5 @@
+https://imgur.com/a/wuIEmG6
+
 ## Study Group App
 
 ### App Description
