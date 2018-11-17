@@ -80,6 +80,7 @@
 ### Wireframes
 ![Wireframe](https://i.imgur.com/lrAktpt.png)
 
+GIF: <img src="https://github.com/Coolkids38/Cool_Ideas/blob/master/GroupPrototype.gif?raw=true" width=200><br>
 ---
 
 ### App Pitch Presentation
