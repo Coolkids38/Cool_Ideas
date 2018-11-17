@@ -1,4 +1,4 @@
-Wireframe: ![Wireframe](https://imgur.com/a/wuIEmG6)
+Wireframe: ![Wireframe](https://i.imgur.com/lrAktpt.png)
 
 ## Study Group App
 
