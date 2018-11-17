@@ -1,5 +1,3 @@
-Wireframe: ![Wireframe](https://i.imgur.com/lrAktpt.png)
-
 ## Study Group App
 
 ### App Description
@@ -80,7 +78,7 @@ Wireframe: ![Wireframe](https://i.imgur.com/lrAktpt.png)
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+![Wireframe](https://i.imgur.com/lrAktpt.png)
 
 ---
 
