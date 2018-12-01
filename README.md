@@ -84,4 +84,6 @@ GIF: <img src="https://github.com/Coolkids38/Cool_Ideas/blob/master/GroupPrototy
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+Wireframe GIF: https://github.com/Coolkids38/Cool_Ideas/blob/master/Wireframe2.gif
+
+Pitch deck: https://docs.google.com/presentation/d/1hkgn63NIohcavaWc939jNplLeRciybKlKEoUpmGm79w/edit?usp=sharing
